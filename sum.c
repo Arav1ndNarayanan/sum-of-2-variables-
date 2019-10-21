@@ -3,7 +3,8 @@
 int main()
 {
     int n,c;
-  printf("%d\a",n+c);
+    scanf("%d%d",&n,&n);
+  printf("%d",n+c);
 
     return 0;
 }
